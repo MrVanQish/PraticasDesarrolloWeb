@@ -1,0 +1,46 @@
+#marco {
+    width: 300px;
+    height: 370px;
+    padding-top: 10px;
+    border: 1px black solid;
+    padding-left: 25px;
+    background-color: red;
+    border-radius: 10%;
+}
+
+#result {
+    width: 260px;
+    height: 40px;
+    margin: auto;
+
+    border-radius: 20%;
+}
+
+.btnnumeric {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+.btnoperaciones {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+    margin-right: 2px;
+}
+
+.btnigual {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+    margin-right: 2px;
+}
+
+.btnborrar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+    margin-right: 2px;
+    width: 270px;
+}
